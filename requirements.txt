@@ -1,0 +1,16 @@
+cvxpy
+bvn==0.1
+numpy==1.19.2
+PyYAML==6.0
+sinkhorn_knopp==0.2
+scikit_learn
+tqdm
+Cython
+fasttext==0.9.2
+hnswlib==0.6.2
+nmslib==2.1.1
+numba
+scipy
+setuptools
+six==1.15.0
+loguru
